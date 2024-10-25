@@ -1,0 +1,58 @@
+Documentation for the goals dictionary that becomes part of the sim environment
+
+The dictionary follows a simple structure of:
+
+{criteria: {goal: value, unit: unit, penalty: type}}
+
+Criteria: These are the things you wish to have goals on. The full list of possibilities is at the bottom of this doc.
+
+Goal: These are the type of goals you wish to enforce. It can be 'max', 'min', 'range', 'exact', or 'target'
+    - For range: input the value as a list, where index 0 is the lower bound and 1 is the upper bound
+    
+unit: The units that the criteria is measured in. See the list of criteria at the bottom for their units.
+
+penalty: This only applies to the 'target' goal. Can be 'light', 'medium', or 'harsh'
+    For 'light', this suggests that it is not a strict target,
+    For 'medium', there is some importance to it, but meeting it is not essential
+    For 'harsh', this is important and stress should be put on meeting it. Consider just making this a goal if it is any more important
+
+
+Possible criteria and their assosciated units:
+
+'total_capex': ['€'],
+'total_opex': ['€/y'],
+'total_value': ['€/y'],
+'total_CO2_emission': ['kg CO2/y', 'T CO2/y', 'MT CO2/y', 'GT CO2/y'],
+'total_CO2_mitigation': ['kg CO2/y', 'T CO2/y', 'MT CO2/y', 'GT CO2/y'],
+'net_CO2': ['kg CO2/y', 'T CO2/y', 'MT CO2/y', 'GT CO2/y'],
+'total_energy': ['€/y'],
+'total_food': ['kg/y', 'T/y', 'MT/y', 'GT/y'],
+
+'mussel_capex': ['€']
+'mussel_opex': ['€/y']
+'mussel_value': ['€/y']
+'mussel_CO2_emission': ['kg CO2/y', 'T CO2/y', 'MT CO2/y', 'GT CO2/y']
+'mussel_CO2_mitigation': ['kg CO2/y', 'T CO2/y', 'MT CO2/y', 'GT CO2/y']
+'mussel_food': ['kg/y', 'T/y', 'MT/y', 'GT/y']
+
+'monopile_capex': ['€']
+'monopile_opex': ['€/y']
+'monopile_value': ['€/y']
+'monopile_CO2_emission': ['kg CO2/y', 'T CO2/y', 'MT CO2/y', 'GT CO2/y']
+'monopile_CO2_mitigation': ['kg CO2/y', 'T CO2/y', 'MT CO2/y', 'GT CO2/y']
+'monopile_energy': ['€/y']
+
+'jacket_capex': ['€']
+'jacket_opex': ['€/y']
+'jacket_value': ['€/y']
+'jacket_CO2_emission': ['kg CO2/y', 'T CO2/y', 'MT CO2/y', 'GT CO2/y']
+'jacket_CO2_mitigation': ['kg CO2/y', 'T CO2/y', 'MT CO2/y', 'GT CO2/y']
+'jacket_energy': ['€/y']
+
+'solar_capex': ['€']
+'solar_opex': ['€/y']
+'solar_value': ['€/y']
+'solar_CO2_emission': ['kg CO2/y', 'T CO2/y', 'MT CO2/y', 'GT CO2/y']
+'solar_CO2_mitigation': ['kg CO2/y', 'T CO2/y', 'MT CO2/y', 'GT CO2/y']
+'solar_energy': ['€/y']
+

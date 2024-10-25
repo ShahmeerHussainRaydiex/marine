@@ -1,0 +1,20 @@
+Loading project: /Users/loucas/Downloads/EcoImpactMapper_v1.2_October2016/EcoImpactMapper_Testdata/testdata_project.csv
+Loading: /Users/loucas/Downloads/EcoImpactMapper_v1.2_October2016/EcoImpactMapper_Testdata/testdata_table.csv Value: Fishing
+Determining input resolution...
+i: 0; x2: 2.0; xi: 1.0; New cellsize: 1.0
+Loading: /Users/loucas/Downloads/EcoImpactMapper_v1.2_October2016/EcoImpactMapper_Testdata/testdata_table.csv Value: Pollution
+Loading: /Users/loucas/Downloads/EcoImpactMapper_v1.2_October2016/EcoImpactMapper_Testdata/testdata_table.csv Value: Fish
+Loading: /Users/loucas/Downloads/EcoImpactMapper_v1.2_October2016/EcoImpactMapper_Testdata/testdata_table.csv Value: Birds
+Loading: /Users/loucas/Downloads/EcoImpactMapper_v1.2_October2016/EcoImpactMapper_Testdata/testdata_table.csv Value: Mammals
+Loading: /Users/loucas/Downloads/EcoImpactMapper_v1.2_October2016/EcoImpactMapper_Testdata/sensitivityweights_test.csv Value: n/a
+Loading: /Users/loucas/Downloads/EcoImpactMapper_v1.2_October2016/EcoImpactMapper_Testdata/testdata_project_pchains.csv Value: n/a
+Loading: /Users/loucas/Downloads/EcoImpactMapper_v1.2_October2016/EcoImpactMapper_Testdata/testdata_project_datatypes.csv Value: n/a
+Loading: /Users/loucas/Downloads/EcoImpactMapper_v1.2_October2016/EcoImpactMapper_Testdata/testdata_project_SF.csv Value: n/a
+Loading: /Users/loucas/Downloads/EcoImpactMapper_v1.2_October2016/EcoImpactMapper_Testdata/testdata_project_factors.csv Value: n/a
+Loading: /Users/loucas/Downloads/EcoImpactMapper_v1.2_October2016/EcoImpactMapper_Testdata/testdata_project_mcsettings.csv Value: n/a
+Loading: /Users/loucas/Downloads/EcoImpactMapper_v1.2_October2016/EcoImpactMapper_Testdata/n/a Value: -1701366
+Loading: /Users/loucas/Downloads/EcoImpactMapper_v1.2_October2016/EcoImpactMapper_Testdata/n/a Value: -16711936
+Loading: /Users/loucas/Downloads/EcoImpactMapper_v1.2_October2016/EcoImpactMapper_Testdata/n/a Value: -13487416
+Loading: /Users/loucas/Downloads/EcoImpactMapper_v1.2_October2016/EcoImpactMapper_Testdata/n/a Value: 25000.0
+Loading: /Users/loucas/Downloads/EcoImpactMapper_v1.2_October2016/EcoImpactMapper_Testdata/n/a Value: 1
+Loading is done.

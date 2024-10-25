@@ -1,0 +1,40 @@
+Loading project: /Users/loucas/Documents/ORG/github/marine-planning/ecoimpactmapper/ecocomponents/monopile/project.csv
+Loading: /Users/loucas/Documents/ORG/github/marine-planning/ecoimpactmapper/ecocomponents/monopile/table.csv Value: stressor
+Determining input resolution...
+i: 0; x3: 4340829.0; xi: 3375829.2; New cellsize: 964999.75
+i: 0; y2: 3525423.5; yi: 4230423.5; New cellsize: 705000.0
+i: 1; x1: 3375829.25; xi: 3380829.2; New cellsize: 5000.0
+Loading: /Users/loucas/Documents/ORG/github/marine-planning/ecoimpactmapper/ecocomponents/monopile/table.csv Value: fish
+Loading: /Users/loucas/Documents/ORG/github/marine-planning/ecoimpactmapper/ecocomponents/monopile/table.csv Value: birds
+Loading: /Users/loucas/Documents/ORG/github/marine-planning/ecoimpactmapper/ecocomponents/monopile/table.csv Value: phytoplankton
+Loading: /Users/loucas/Documents/ORG/github/marine-planning/ecoimpactmapper/ecocomponents/monopile/table.csv Value: invertebrates
+Loading: /Users/loucas/Documents/ORG/github/marine-planning/ecoimpactmapper/ecocomponents/monopile/table.csv Value: mammals
+Loading: /Users/loucas/Documents/ORG/github/marine-planning/ecoimpactmapper/ecocomponents/monopile/sensitivityweights_test.csv Value: n/a
+Loading: /Users/loucas/Documents/ORG/github/marine-planning/ecoimpactmapper/ecocomponents/monopile/project_pchains.csv Value: n/a
+Loading: /Users/loucas/Documents/ORG/github/marine-planning/ecoimpactmapper/ecocomponents/monopile/project_datatypes.csv Value: n/a
+Loading: /Users/loucas/Documents/ORG/github/marine-planning/ecoimpactmapper/ecocomponents/monopile/project_SF.csv Value: n/a
+Loading: /Users/loucas/Documents/ORG/github/marine-planning/ecoimpactmapper/ecocomponents/monopile/project_factors.csv Value: n/a
+Loading: /Users/loucas/Documents/ORG/github/marine-planning/ecoimpactmapper/ecocomponents/monopile/project_mcsettings.csv Value: n/a
+Loading: /Users/loucas/Documents/ORG/github/marine-planning/ecoimpactmapper/ecocomponents/monopile/n/a Value: -1701366
+Loading: /Users/loucas/Documents/ORG/github/marine-planning/ecoimpactmapper/ecocomponents/monopile/n/a Value: -16711936
+Loading: /Users/loucas/Documents/ORG/github/marine-planning/ecoimpactmapper/ecocomponents/monopile/n/a Value: -13487416
+Loading: /Users/loucas/Documents/ORG/github/marine-planning/ecoimpactmapper/ecocomponents/monopile/n/a Value: 25000
+Loading: /Users/loucas/Documents/ORG/github/marine-planning/ecoimpactmapper/ecocomponents/monopile/n/a Value: 1
+Loading is done.
+Loaded sensitivity weights from /Users/loucas/Documents/ORG/github/marine-planning/ecoimpactmapper/ecocomponents/monopile/sensitivityweights_monopile.csv
+Calculating sensitivity index...Started background thread...
+Background thread is done.
+Writing results to file: /Users/loucas/Documents/ORG/github/marine-planning/ecoimpactmapper/ecocomponents/monopile/eco_sens
+Loaded sensitivity weights from /Users/loucas/Documents/ORG/github/marine-planning/ecoimpactmapper/ecocomponents/monopile/sensitivityweights_monopile.csv
+Calculating sensitivity index...Started background thread...
+Background thread is done.
+Writing results to file: /Users/loucas/Documents/ORG/github/marine-planning/ecoimpactmapper/ecocomponents/monopile/eco_sens
+Removed spatial data layer: 20240912 09:28 Sensitivity Index
+Loaded sensitivity weights from /Users/loucas/Documents/ORG/github/marine-planning/ecoimpactmapper/ecocomponents/monopile/sensitivityweights_aquaculture.csv
+Calculating sensitivity index...Started background thread...
+Background thread is done.
+Writing results to file: /Users/loucas/Documents/ORG/github/marine-planning/ecoimpactmapper/ecocomponents/monopile/eco_sens_aquaculture
+Loaded sensitivity weights from /Users/loucas/Documents/ORG/github/marine-planning/ecoimpactmapper/ecocomponents/monopile/sensitivityweights_fpv.csv
+Calculating sensitivity index...Started background thread...
+Background thread is done.
+Writing results to file: /Users/loucas/Documents/ORG/github/marine-planning/ecoimpactmapper/ecocomponents/monopile/eco_sens_fpv

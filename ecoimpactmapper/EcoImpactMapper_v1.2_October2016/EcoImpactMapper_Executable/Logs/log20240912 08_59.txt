@@ -1,0 +1,46 @@
+Loading project: /Users/loucas/Documents/ORG/github/marine-planning/ecoimpactmapper/ecocomponents/monopile/project.csv
+Loading: /Users/loucas/Documents/ORG/github/marine-planning/ecoimpactmapper/ecocomponents/monopile/table.csv Value: stressor
+Determining input resolution...
+i: 0; x3: 4340829.0; xi: 3375829.2; New cellsize: 964999.75
+i: 0; y2: 3525423.5; yi: 4230423.5; New cellsize: 705000.0
+i: 1; x1: 3375829.25; xi: 3380829.2; New cellsize: 5000.0
+Loading: /Users/loucas/Documents/ORG/github/marine-planning/ecoimpactmapper/ecocomponents/monopile/table.csv Value: fish
+Loading: /Users/loucas/Documents/ORG/github/marine-planning/ecoimpactmapper/ecocomponents/monopile/table.csv Value: birds
+Loading: /Users/loucas/Documents/ORG/github/marine-planning/ecoimpactmapper/ecocomponents/monopile/table.csv Value: phytoplankton
+Loading: /Users/loucas/Documents/ORG/github/marine-planning/ecoimpactmapper/ecocomponents/monopile/table.csv Value: invertebrates
+Loading: /Users/loucas/Documents/ORG/github/marine-planning/ecoimpactmapper/ecocomponents/monopile/table.csv Value: mammals
+Loading: /Users/loucas/Documents/ORG/github/marine-planning/ecoimpactmapper/ecocomponents/monopile/sensitivityweights_test.csv Value: n/a
+Loading: /Users/loucas/Documents/ORG/github/marine-planning/ecoimpactmapper/ecocomponents/monopile/project_pchains.csv Value: n/a
+Loading: /Users/loucas/Documents/ORG/github/marine-planning/ecoimpactmapper/ecocomponents/monopile/project_datatypes.csv Value: n/a
+Loading: /Users/loucas/Documents/ORG/github/marine-planning/ecoimpactmapper/ecocomponents/monopile/project_SF.csv Value: n/a
+Loading: /Users/loucas/Documents/ORG/github/marine-planning/ecoimpactmapper/ecocomponents/monopile/project_factors.csv Value: n/a
+Loading: /Users/loucas/Documents/ORG/github/marine-planning/ecoimpactmapper/ecocomponents/monopile/project_mcsettings.csv Value: n/a
+Loading: /Users/loucas/Documents/ORG/github/marine-planning/ecoimpactmapper/ecocomponents/monopile/n/a Value: -1701366
+Loading: /Users/loucas/Documents/ORG/github/marine-planning/ecoimpactmapper/ecocomponents/monopile/n/a Value: -16711936
+Loading: /Users/loucas/Documents/ORG/github/marine-planning/ecoimpactmapper/ecocomponents/monopile/n/a Value: -13487416
+Loading: /Users/loucas/Documents/ORG/github/marine-planning/ecoimpactmapper/ecocomponents/monopile/n/a Value: 25000
+Loading: /Users/loucas/Documents/ORG/github/marine-planning/ecoimpactmapper/ecocomponents/monopile/n/a Value: 1
+Loading is done.
+Loaded sensitivity weights from /Users/loucas/Documents/ORG/github/marine-planning/ecoimpactmapper/ecocomponents/monopile/sensitivityweights_monopile.csv
+Calculating diversity index...Started worker thread...
+Worker thread is done.
+Writing result to file: /Users/loucas/Documents/ORG/github/marine-planning/ecoimpactmapper/ecocomponents/monopile/eco_diversity
+Calculating weighted stressor index...Started worker thread...
+Worker thread is done.
+Writing results to file: /Users/loucas/Documents/ORG/github/marine-planning/ecoimpactmapper/ecocomponents/monopile/weighted_stressor
+Calculating unweighted stressor index...Started worker thread...
+Worker thread is done.
+Writing results to file: /Users/loucas/Documents/ORG/github/marine-planning/ecoimpactmapper/ecocomponents/monopile/unweighted_stressor
+Removed spatial data layer: 20240912 09:04 Stressor index (weighted)
+Removed spatial data layer: 20240912 09:05 Stressor index (unweighted)
+Calculating weighted stressor index...Started worker thread...
+Worker thread is done.
+Writing results to file: /Users/loucas/Documents/ORG/github/marine-planning/ecoimpactmapper/ecocomponents/monopile/weighted
+Loaded sensitivity weights from /Users/loucas/Documents/ORG/github/marine-planning/ecoimpactmapper/ecocomponents/monopile/sensitivityweights_monopile.csv
+Removed spatial data layer: 20240912 09:07 Stressor index (weighted)
+Calculating weighted stressor index...Started worker thread...
+Worker thread is done.
+Writing results to file: /Users/loucas/Documents/ORG/github/marine-planning/ecoimpactmapper/ecocomponents/monopile/weighted
+Calculating overlap between stressor intensities and diversity index.Started worker thread...
+Worker thread is done.
+Writing results to file: /Users/loucas/Documents/ORG/github/marine-planning/ecoimpactmapper/ecocomponents/monopile/check

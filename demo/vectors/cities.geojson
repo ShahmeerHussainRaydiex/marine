@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3857" } },
+"features": [
+{ "type": "Feature", "properties": { "Id": 0, "name": "Oostende" }, "geometry": { "type": "Point", "coordinates": [ 324254.404399998486042, 6661134.066799998283386, 0.0 ] } },
+{ "type": "Feature", "properties": { "Id": 0, "name": "Zeebrugge" }, "geometry": { "type": "Point", "coordinates": [ 357904.281805048638489, 6679607.870461389422417, 0.0 ] } },
+{ "type": "Feature", "properties": { "Id": 0, "name": "Nieuwpoort" }, "geometry": { "type": "Point", "coordinates": [ 305584.886548507434782, 6645437.129572794772685, 0.0 ] } }
+]
+}

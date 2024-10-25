@@ -1,0 +1,60 @@
+**********************
+Instance Name: niko_test1
+Technology Modelled: monopile, jacket, mussel, solar
+
+Goals:
+   food > 400000
+   cap < 1000000000
+   jacket_energy > 100
+
+Value Modifications:
+   monopile : mit : 1.2
+   monopile : value : 1.1
+
+monopile: 25 cells
+jacket: 3 cells
+mussel: 50 cells
+solar: 0 cells
+
+Emissions: 65 073 613.01
+Mitigation: 97 202 055.47
+Operational Cost: 28 410 601.99
+Capital Cost: 988 969 030.95
+Socioeconomic Value: 84 720 425.77
+Energy Produced: 958.63
+Food Produced: 405 000.00
+CO2 Total: -32 128 442.47
+CAP + OPR: 1 017 379 632.94
+
+Status: Optimal
+Optimized Value: 88 834 335.19
+**********************
+Instance Name: niko_test1
+Technology Modelled: monopile, jacket, mussel, solar
+
+Goals:
+   food > 400000
+   cap < 1000000000
+   jacket_energy > 100
+
+Value Modifications:
+   monopile : mit : 1.2
+   monopile : value : 1.1
+
+monopile: 25 cells
+jacket: 3 cells
+mussel: 50 cells
+solar: 0 cells
+
+Emissions: 65 073 613.01
+Mitigation: 97 202 055.47
+Operational Cost: 28 410 601.99
+Capital Cost: 988 969 030.95
+Socioeconomic Value: 84 720 425.77
+Energy Produced: 958.63
+Food Produced: 405 000.00
+CO2 Total: -32 128 442.47
+CAP + OPR: 1 017 379 632.94
+
+Status: Optimal
+Optimized Value: 88 834 335.19

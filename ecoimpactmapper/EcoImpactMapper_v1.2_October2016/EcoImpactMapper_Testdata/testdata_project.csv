@@ -1,0 +1,17 @@
+ResType,ResName,File,XField,YField,ValueField
+stressor,Fishing,testdata_table.csv,X,Y,Fishing
+stressor,Pollution,testdata_table.csv,X,Y,Pollution
+ecocomp,Fish,testdata_table.csv,X,Y,Fish
+ecocomp,Birds,testdata_table.csv,X,Y,Birds
+ecocomp,Mammals,testdata_table.csv,X,Y,Mammals
+sensitivityscorefile,n/a,sensitivityweights_test.csv,n/a,n/a,n/a
+processingchains,n/a,testdata_project_pchains.csv,n/a,n/a,n/a
+datatypes,n/a,testdata_project_datatypes.csv,n/a,n/a,n/a
+SF,n/a,testdata_project_SF.csv,n/a,n/a,n/a
+factors,n/a,testdata_project_factors.csv,n/a,n/a,n/a
+mcsettings,n/a,testdata_project_mcsettings.csv,n/a,n/a,n/a
+color,maxcolor,n/a,n/a,n/a,-1701366
+color,midcolor,n/a,n/a,n/a,-16711936
+color,mincolor,n/a,n/a,n/a,-13487416
+lpfdistance,n/a,n/a,n/a,n/a,25000.0
+threads,n/a,n/a,n/a,n/a,1

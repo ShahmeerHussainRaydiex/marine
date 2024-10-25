@@ -1,0 +1,12 @@
+DataLayer,Processor
+SST anomalies,Log(X+1)-Transformation
+SST anomalies,Rescale to maximum 1
+Ocean pollution,Log(X+1)-Transformation
+Ocean pollution,Rescale to maximum 1
+Fishing: Demersal destructive,Log(X+1)-Transformation
+Fishing: Demersal destructive,Rescale to maximum 1
+Fishing: Demersal non-destructive,Log(X+1)-Transformation
+Fishing: Demersal non-destructive,Rescale to maximum 1
+Soft slope bottom,Identity
+Soft shelf bottom,Identity
+Subtidal soft bottom,Identity

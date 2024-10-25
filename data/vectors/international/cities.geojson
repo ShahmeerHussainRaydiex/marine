@@ -1,0 +1,13 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Brussels" }, "geometry": { "type": "Point", "coordinates": [ 3924823.072300000116229, 3099735.362600000575185, 0.0 ] } },
+{ "type": "Feature", "properties": { "name": "Amsterdam" }, "geometry": { "type": "Point", "coordinates": [ 3973091.457499999552965, 3261132.775699999183416, 0.0 ] } },
+{ "type": "Feature", "properties": { "name": "London" }, "geometry": { "type": "Point", "coordinates": [ 3620128.890699999406934, 3205322.455299999564886, 0.0 ] } },
+{ "type": "Feature", "properties": { "name": "Edinburgh" }, "geometry": { "type": "Point", "coordinates": [ 3502066.76997318258509, 3724994.717788435518742, 0.0 ] } },
+{ "type": "Feature", "properties": { "name": "Hamburg" }, "geometry": { "type": "Point", "coordinates": [ 4321626.373155172914267, 3382170.296190311200917, 0.0 ] } },
+{ "type": "Feature", "properties": { "name": "Esbjerg" }, "geometry": { "type": "Point", "coordinates": [ 4223527.084439652040601, 3598085.301624058745801, 0.0 ] } },
+{ "type": "Feature", "properties": { "name": "Bergen" }, "geometry": { "type": "Point", "coordinates": [ 4058999.025129156187177, 4156284.573830122128129, 0.0 ] } }
+]
+}

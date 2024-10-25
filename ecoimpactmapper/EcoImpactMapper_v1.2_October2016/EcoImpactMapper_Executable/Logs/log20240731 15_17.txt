@@ -1,0 +1,32 @@
+Loading project: /Users/loucas/Documents/ORG/github/marine-planning/ecoimpactmapper/test_rasters/testdata_project.csv
+Loading: /Users/loucas/Documents/ORG/github/marine-planning/ecoimpactmapper/test_rasters/testdata_table.csv Value: fish_stressor
+Determining input resolution...
+i: 0; x3: 388098.0625; xi: 224077.75; New cellsize: 164020.31
+i: 0; y2: 6708771.0; yi: 6797975.0; New cellsize: 89204.0
+i: 1; x1: 224077.75; xi: 225516.52; New cellsize: 1438.7656
+i: 7076; y2: 6708771.0; yi: 6710209.5; New cellsize: 1438.5
+Loading: /Users/loucas/Documents/ORG/github/marine-planning/ecoimpactmapper/test_rasters/testdata_table.csv Value: birds_stressor
+Loading: /Users/loucas/Documents/ORG/github/marine-planning/ecoimpactmapper/test_rasters/testdata_table.csv Value: fish
+Loading: /Users/loucas/Documents/ORG/github/marine-planning/ecoimpactmapper/test_rasters/testdata_table.csv Value: birds
+Loading: /Users/loucas/Documents/ORG/github/marine-planning/ecoimpactmapper/test_rasters/sensitivityweights_test.csv Value: n/a
+Loading: /Users/loucas/Documents/ORG/github/marine-planning/ecoimpactmapper/test_rasters/testdata_project_pchains.csv Value: n/a
+Loading: /Users/loucas/Documents/ORG/github/marine-planning/ecoimpactmapper/test_rasters/testdata_project_datatypes.csv Value: n/a
+Loading: /Users/loucas/Documents/ORG/github/marine-planning/ecoimpactmapper/test_rasters/testdata_project_SF.csv Value: n/a
+Loading: /Users/loucas/Documents/ORG/github/marine-planning/ecoimpactmapper/test_rasters/testdata_project_factors.csv Value: n/a
+Loading: /Users/loucas/Documents/ORG/github/marine-planning/ecoimpactmapper/test_rasters/testdata_project_mcsettings.csv Value: n/a
+Loading: /Users/loucas/Documents/ORG/github/marine-planning/ecoimpactmapper/test_rasters/n/a Value: -1701366
+Loading: /Users/loucas/Documents/ORG/github/marine-planning/ecoimpactmapper/test_rasters/n/a Value: -16711936
+Loading: /Users/loucas/Documents/ORG/github/marine-planning/ecoimpactmapper/test_rasters/n/a Value: -13487416
+Loading: /Users/loucas/Documents/ORG/github/marine-planning/ecoimpactmapper/test_rasters/n/a Value: 25000
+Loading: /Users/loucas/Documents/ORG/github/marine-planning/ecoimpactmapper/test_rasters/n/a Value: 1
+Loading is done.
+Loaded sensitivity weights from /Users/loucas/Documents/ORG/github/marine-planning/ecoimpactmapper/test_rasters/sensitivityweights_test.csv
+Calculating diversity index...Started worker thread...
+Worker thread is done.
+Writing result to file: /Users/loucas/Documents/ORG/github/marine-planning/ecoimpactmapper/test_rasters/edi
+Calculating sensitivity index...Started background thread...
+Background thread is done.
+Writing results to file: /Users/loucas/Documents/ORG/github/marine-planning/ecoimpactmapper/test_rasters/esi
+Calculating unweighted stressor index...Started worker thread...
+Worker thread is done.
+Writing results to file: /Users/loucas/Documents/ORG/github/marine-planning/ecoimpactmapper/test_rasters/sw

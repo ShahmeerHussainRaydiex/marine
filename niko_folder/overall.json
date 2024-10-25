@@ -1,0 +1,26 @@
+{
+    "test_test": {
+        "run_name": "test",
+        "instance_name": "test",
+        "metrics": {
+            "co2+": "393,20 M kg CO2/y",
+            "co2-": "2,10 B kg CO2/y",
+            "value": "898,61 M \u20ac/y",
+            "capex": "34,00 B \u20ac",
+            "opr": "371,04 M \u20ac/y",
+            "energy": "19.632  GWh/y",
+            "food": "1,00 Mkg/y"
+        },
+        "constraints": {
+            "max_monopile_units": 180,
+            "max_jacket_units": 0,
+            "min_total_food": 1000000
+        },
+        "goals": {},
+        "unit_counts": {
+            "turbines (monopile)": "180",
+            "aquaculture plots": "3.515",
+            "FPV platforms": "151.835"
+        }
+    }
+}

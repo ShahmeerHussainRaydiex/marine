@@ -1,0 +1,19 @@
+ResType,ResName,File,XField,YField,ValueField
+stressor,SST anomalies,Model inputs/example_input_data_spatial.txt,X,Y,sst
+stressor,Ocean pollution,Model inputs/example_input_data_spatial.txt,X,Y,ocean_poll
+stressor,Fishing: Demersal destructive,Model inputs/example_input_data_spatial.txt,X,Y,dem_dest
+stressor,Fishing: Demersal non-destructive,Model inputs/example_input_data_spatial.txt,X,Y,dem_non_hi
+ecocomp,Soft slope bottom,Model inputs/example_input_data_spatial.txt,X,Y,soft_slope
+ecocomp,Soft shelf bottom,Model inputs/example_input_data_spatial.txt,X,Y,soft_shelf
+ecocomp,Subtidal soft bottom,Model inputs/example_input_data_spatial.txt,X,Y,s_t_s_bott
+sensitivityscorefile,n/a,Model inputs/sensitivityweights.csv,n/a,n/a,n/a
+processingchains,n/a,exampleproject_pchains.csv,n/a,n/a,n/a
+datatypes,n/a,exampleproject_datatypes.csv,n/a,n/a,n/a
+SF,n/a,exampleproject_SF.csv,n/a,n/a,n/a
+factors,n/a,exampleproject_factors.csv,n/a,n/a,n/a
+mcsettings,n/a,exampleproject_mcsettings.csv,n/a,n/a,n/a
+color,maxcolor,n/a,n/a,n/a,-1701366
+color,midcolor,n/a,n/a,n/a,-16711936
+color,mincolor,n/a,n/a,n/a,-13487416
+lpfdistance,n/a,n/a,n/a,n/a,25000
+threads,n/a,n/a,n/a,n/a,1

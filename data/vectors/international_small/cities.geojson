@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Brussels" }, "geometry": { "type": "Point", "coordinates": [ 3924823.072300000116229, 3099735.362600000575185, 0.0 ] } },
+{ "type": "Feature", "properties": { "name": "Amsterdam" }, "geometry": { "type": "Point", "coordinates": [ 3973091.457499999552965, 3261132.775699999183416, 0.0 ] } },
+{ "type": "Feature", "properties": { "name": "London" }, "geometry": { "type": "Point", "coordinates": [ 3620128.890699999406934, 3205322.455299999564886, 0.0 ] } }
+]
+}

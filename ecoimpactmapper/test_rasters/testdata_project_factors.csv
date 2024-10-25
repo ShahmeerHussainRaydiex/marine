@@ -1,0 +1,29 @@
+Factor,Level
+0: Missing stressor data,0.0000
+0: Missing stressor data,0.1111
+0: Missing stressor data,0.2222
+0: Missing stressor data,0.3333
+1: Sensitivity weight errors,0.0000
+1: Sensitivity weight errors,0.1667
+1: Sensitivity weight errors,0.3333
+1: Sensitivity weight errors,0.5000
+2: Linear stress decay,0
+2: Linear stress decay,7000
+2: Linear stress decay,14000
+2: Linear stress decay,20000
+3: Ecological thresholds,0
+3: Ecological thresholds,0.3333
+3: Ecological thresholds,0.6667
+3: Ecological thresholds,1.0000
+4: Half analysis resolution,No
+4: Half analysis resolution,Yes
+5: Improved stressor resolution,No
+5: Improved stressor resolution,Yes
+6: Impact model,Mean
+6: Impact model,Sum
+7: Transformation,CDF
+7: Transformation,Cut at 99-Percentile
+7: Transformation,Log[X+1]
+8: Multiple stressor effects model,Additive
+8: Multiple stressor effects model,Antagonistic
+8: Multiple stressor effects model,Dominant

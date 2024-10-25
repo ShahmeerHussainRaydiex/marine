@@ -1,0 +1,56 @@
+Loading project: /Users/loucas/Downloads/EcoImpactMapper_v1.2_October2016/EcoImpactMapper_Testdata/testdata_project.csv
+Loading: /Users/loucas/Downloads/EcoImpactMapper_v1.2_October2016/EcoImpactMapper_Testdata/testdata_table.csv Value: Fishing
+Determining input resolution...
+i: 0; x2: 2.0; xi: 1.0; New cellsize: 1.0
+Loading: /Users/loucas/Downloads/EcoImpactMapper_v1.2_October2016/EcoImpactMapper_Testdata/testdata_table.csv Value: Pollution
+Loading: /Users/loucas/Downloads/EcoImpactMapper_v1.2_October2016/EcoImpactMapper_Testdata/testdata_table.csv Value: Fish
+Loading: /Users/loucas/Downloads/EcoImpactMapper_v1.2_October2016/EcoImpactMapper_Testdata/testdata_table.csv Value: Birds
+Loading: /Users/loucas/Downloads/EcoImpactMapper_v1.2_October2016/EcoImpactMapper_Testdata/testdata_table.csv Value: Mammals
+Loading: /Users/loucas/Downloads/EcoImpactMapper_v1.2_October2016/EcoImpactMapper_Testdata/sensitivityweights_test.csv Value: n/a
+Loading: /Users/loucas/Downloads/EcoImpactMapper_v1.2_October2016/EcoImpactMapper_Testdata/testdata_project_pchains.csv Value: n/a
+Loading: /Users/loucas/Downloads/EcoImpactMapper_v1.2_October2016/EcoImpactMapper_Testdata/testdata_project_datatypes.csv Value: n/a
+Loading: /Users/loucas/Downloads/EcoImpactMapper_v1.2_October2016/EcoImpactMapper_Testdata/testdata_project_SF.csv Value: n/a
+Loading: /Users/loucas/Downloads/EcoImpactMapper_v1.2_October2016/EcoImpactMapper_Testdata/testdata_project_factors.csv Value: n/a
+Loading: /Users/loucas/Downloads/EcoImpactMapper_v1.2_October2016/EcoImpactMapper_Testdata/testdata_project_mcsettings.csv Value: n/a
+Loading: /Users/loucas/Downloads/EcoImpactMapper_v1.2_October2016/EcoImpactMapper_Testdata/n/a Value: -1701366
+Loading: /Users/loucas/Downloads/EcoImpactMapper_v1.2_October2016/EcoImpactMapper_Testdata/n/a Value: -16711936
+Loading: /Users/loucas/Downloads/EcoImpactMapper_v1.2_October2016/EcoImpactMapper_Testdata/n/a Value: -13487416
+Loading: /Users/loucas/Downloads/EcoImpactMapper_v1.2_October2016/EcoImpactMapper_Testdata/n/a Value: 25000.0
+Loading: /Users/loucas/Downloads/EcoImpactMapper_v1.2_October2016/EcoImpactMapper_Testdata/n/a Value: 1
+Loading is done.
+Loading project: /Users/loucas/Downloads/EcoImpactMapper_v1.2_October2016/EcoImpactMapper_Tutorial and example data/EcoImpactMapper-Example data/Example project/exampleproject.csv
+Loading: /Users/loucas/Downloads/EcoImpactMapper_v1.2_October2016/EcoImpactMapper_Tutorial and example data/EcoImpactMapper-Example data/Example project/Model inputs/example_input_data_spatial.txt Value: sst
+Determining input resolution...
+i: 0; x2: 605775.75; xi: 679775.75; New cellsize: 74000.0
+i: 0; x3: 695775.75; xi: 679775.75; New cellsize: 16000.0
+i: 1; x1: 679775.75; xi: 683775.75; New cellsize: 4000.0
+i: 47; y1: 6434416.0; yi: 6436416.0; New cellsize: 2000.0
+Loading: /Users/loucas/Downloads/EcoImpactMapper_v1.2_October2016/EcoImpactMapper_Tutorial and example data/EcoImpactMapper-Example data/Example project/Model inputs/example_input_data_spatial.txt Value: ocean_poll
+Loading: /Users/loucas/Downloads/EcoImpactMapper_v1.2_October2016/EcoImpactMapper_Tutorial and example data/EcoImpactMapper-Example data/Example project/Model inputs/example_input_data_spatial.txt Value: dem_dest
+Loading: /Users/loucas/Downloads/EcoImpactMapper_v1.2_October2016/EcoImpactMapper_Tutorial and example data/EcoImpactMapper-Example data/Example project/Model inputs/example_input_data_spatial.txt Value: dem_non_hi
+Loading: /Users/loucas/Downloads/EcoImpactMapper_v1.2_October2016/EcoImpactMapper_Tutorial and example data/EcoImpactMapper-Example data/Example project/Model inputs/example_input_data_spatial.txt Value: soft_slope
+Loading: /Users/loucas/Downloads/EcoImpactMapper_v1.2_October2016/EcoImpactMapper_Tutorial and example data/EcoImpactMapper-Example data/Example project/Model inputs/example_input_data_spatial.txt Value: soft_shelf
+Loading: /Users/loucas/Downloads/EcoImpactMapper_v1.2_October2016/EcoImpactMapper_Tutorial and example data/EcoImpactMapper-Example data/Example project/Model inputs/example_input_data_spatial.txt Value: s_t_s_bott
+Loading: /Users/loucas/Downloads/EcoImpactMapper_v1.2_October2016/EcoImpactMapper_Tutorial and example data/EcoImpactMapper-Example data/Example project/Model inputs/sensitivityweights.csv Value: n/a
+Loading: /Users/loucas/Downloads/EcoImpactMapper_v1.2_October2016/EcoImpactMapper_Tutorial and example data/EcoImpactMapper-Example data/Example project/exampleproject_pchains.csv Value: n/a
+Loading: /Users/loucas/Downloads/EcoImpactMapper_v1.2_October2016/EcoImpactMapper_Tutorial and example data/EcoImpactMapper-Example data/Example project/exampleproject_datatypes.csv Value: n/a
+Loading: /Users/loucas/Downloads/EcoImpactMapper_v1.2_October2016/EcoImpactMapper_Tutorial and example data/EcoImpactMapper-Example data/Example project/exampleproject_SF.csv Value: n/a
+Loading: /Users/loucas/Downloads/EcoImpactMapper_v1.2_October2016/EcoImpactMapper_Tutorial and example data/EcoImpactMapper-Example data/Example project/exampleproject_factors.csv Value: n/a
+Loading: /Users/loucas/Downloads/EcoImpactMapper_v1.2_October2016/EcoImpactMapper_Tutorial and example data/EcoImpactMapper-Example data/Example project/exampleproject_mcsettings.csv Value: n/a
+Loading: /Users/loucas/Downloads/EcoImpactMapper_v1.2_October2016/EcoImpactMapper_Tutorial and example data/EcoImpactMapper-Example data/Example project/n/a Value: -1701366
+Loading: /Users/loucas/Downloads/EcoImpactMapper_v1.2_October2016/EcoImpactMapper_Tutorial and example data/EcoImpactMapper-Example data/Example project/n/a Value: -16711936
+Loading: /Users/loucas/Downloads/EcoImpactMapper_v1.2_October2016/EcoImpactMapper_Tutorial and example data/EcoImpactMapper-Example data/Example project/n/a Value: -13487416
+Loading: /Users/loucas/Downloads/EcoImpactMapper_v1.2_October2016/EcoImpactMapper_Tutorial and example data/EcoImpactMapper-Example data/Example project/n/a Value: 25000
+Loading: /Users/loucas/Downloads/EcoImpactMapper_v1.2_October2016/EcoImpactMapper_Tutorial and example data/EcoImpactMapper-Example data/Example project/n/a Value: 1
+Loading is done.
+Loaded sensitivity weights from /Users/loucas/Downloads/EcoImpactMapper_v1.2_October2016/EcoImpactMapper_Tutorial and example data/EcoImpactMapper-Example data/Example project/Model inputs/sensitivityweights.csv
+Loaded sensitivity weights from /Users/loucas/Downloads/EcoImpactMapper_v1.2_October2016/EcoImpactMapper_Tutorial and example data/EcoImpactMapper-Example data/Example project/Model inputs/sensitivityweights.csv
+Calculating diversity index...Started worker thread...
+Worker thread is done.
+Writing result to file: /Users/loucas/Downloads/EcoImpactMapper_v1.2_October2016/test_ED
+Calculating sensitivity index...Started background thread...
+Background thread is done.
+Writing results to file: /Users/loucas/Downloads/EcoImpactMapper_v1.2_October2016/test_ES
+Calculating unweighted stressor index...Started worker thread...
+Worker thread is done.
+Writing results to file: /Users/loucas/Downloads/EcoImpactMapper_v1.2_October2016/test_stressor_unweighted

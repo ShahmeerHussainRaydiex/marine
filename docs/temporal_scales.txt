@@ -1,0 +1,13 @@
+This txt contains the possible temporal scales that can be used for the marine plan model.
+New scales may be added, and these values could change.
+
+hourly_low -- 5th percentile for hourly wind speeds
+hourly_high -- 95th percentile for hourly wind speeds
+
+daily_low -- 5th percentile for daily wind speeds
+daily_high -- 95th percentile for daily wind speeds
+
+weekly_low -- 5th percentile for weekly wind speeds
+weekly_high -- 95th percentile for weekly wind speeds
+
+yearly -- yearly average

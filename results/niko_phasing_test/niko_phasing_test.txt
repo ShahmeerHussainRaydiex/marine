@@ -1,0 +1,175 @@
+**********************
+Instance Name: 2030
+Technology Modelled: monopile, jacket, mussel
+
+Goals:
+   cap < 3500000000
+   co2 < 0
+   food > 1000000
+
+Value Modifications:
+
+monopile: 109 cells
+jacket: 0 cells
+mussel: 124 cells
+
+Emissions: 181 643 314.04
+Mitigation: 316 771 400.50
+Operational Cost: 84 102 977.16
+Capital Cost: 3 499 986 712.02
+Socioeconomic Value: 254 270 890.47
+Energy Produced: 3 683.39
+Food Produced: 1 004 400.00
+CO2 Total: -135 128 086.46
+CAP + OPR: 3 584 089 689.18
+
+Status: Optimal
+Optimized Value: 306 269 083.29
+**********************
+Instance Name: 2040
+Technology Modelled: monopile, jacket, mussel, monopile + mussel
+
+Goals:
+   cap < 3500000000
+   co2 < 0
+   food > 1000000
+
+Value Modifications:
+
+monopile: 99 cells
+jacket: 0 cells
+mussel: 119 cells
+monopile + mussel: 5 cells
+
+Emissions: 195 126 283.12
+Mitigation: 309 388 011.27
+Operational Cost: 95 972 167.01
+Capital Cost: 3 499 995 707.71
+Socioeconomic Value: 247 764 914.60
+Energy Produced: 3 597.54
+Food Produced: 1 004 400.00
+CO2 Total: -114 261 728.15
+CAP + OPR: 3 595 967 874.72
+
+Status: Optimal
+Optimized Value: 267 027 473.31
+**********************
+Instance Name: 2050
+Technology Modelled: solar, monopile, jacket, mussel, monopile + mussel, monopile + solar
+
+Goals:
+   cap < 3500000000
+   co2 < 0
+   food > 1000000
+
+Value Modifications:
+
+solar: 5 cells
+monopile: 59 cells
+jacket: 0 cells
+mussel: 119 cells
+monopile + mussel: 5 cells
+monopile + solar: 5 cells
+
+Emissions: 236 671 559.68
+Mitigation: 1 638 450 082.91
+Operational Cost: 92 790 320.43
+Capital Cost: 3 499 982 362.57
+Socioeconomic Value: 866 115 163.38
+Energy Produced: 7 472.80
+Food Produced: 1 004 400.00
+CO2 Total: -1 401 778 523.23
+CAP + OPR: 3 592 772 683.00
+
+Status: Optimal
+Optimized Value: 2 176 080 239.16
+**********************
+Instance Name: 2060
+Technology Modelled: solar, monopile, jacket, mussel, monopile + mussel, monopile + solar
+
+Goals:
+   cap < 3500000000
+   co2 < 0
+   food > 1000000
+
+Value Modifications:
+
+solar: 5 cells
+monopile: 62 cells
+jacket: 0 cells
+mussel: 119 cells
+monopile + mussel: 5 cells
+monopile + solar: 5 cells
+
+Emissions: 234 146 056.25
+Mitigation: 1 642 657 812.99
+Operational Cost: 91 251 215.76
+Capital Cost: 3 499 998 116.33
+Socioeconomic Value: 868 091 817.98
+Energy Produced: 7 521.72
+Food Produced: 1 004 400.00
+CO2 Total: -1 408 511 756.74
+CAP + OPR: 3 591 249 332.09
+
+Status: Optimal
+Optimized Value: 2 186 329 280.70
+**********************
+Instance Name: 2070
+Technology Modelled: solar, monopile, jacket, mussel, monopile + mussel, monopile + solar
+
+Goals:
+   cap < 3500000000
+   co2 < 0
+   food > 1000000
+
+Value Modifications:
+
+solar: 5 cells
+monopile: 57 cells
+jacket: 0 cells
+mussel: 119 cells
+monopile + mussel: 5 cells
+monopile + solar: 5 cells
+
+Emissions: 226 536 535.51
+Mitigation: 1 632 544 119.34
+Operational Cost: 95 041 923.18
+Capital Cost: 3 499 385 800.69
+Socioeconomic Value: 863 340 733.98
+Energy Produced: 7 404.12
+Food Produced: 1 004 400.00
+CO2 Total: -1 406 007 583.82
+CAP + OPR: 3 594 427 723.87
+
+Status: Optimal
+Optimized Value: 2 175 283 204.89
+**********************
+Instance Name: 2080
+Technology Modelled: solar, monopile, jacket, mussel, monopile + mussel, monopile + solar
+
+Goals:
+   cap < 3500000000
+   co2 < 0
+   food > 1000000
+
+Value Modifications:
+
+solar: 5 cells
+monopile: 60 cells
+jacket: 0 cells
+mussel: 119 cells
+monopile + mussel: 5 cells
+monopile + solar: 5 cells
+
+Emissions: 238 691 873.91
+Mitigation: 1 638 913 610.38
+Operational Cost: 91 325 008.28
+Capital Cost: 3 499 988 341.68
+Socioeconomic Value: 866 332 913.50
+Energy Produced: 7 478.19
+Food Produced: 1 004 400.00
+CO2 Total: -1 400 221 736.48
+CAP + OPR: 3 591 313 349.96
+
+Status: Optimal
+Optimized Value: 2 176 206 520.00

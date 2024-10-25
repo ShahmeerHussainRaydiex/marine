@@ -1,0 +1,8 @@
+DataLayer,Processor
+Fishing,Log(X+1)-Transformation
+Fishing,Rescale to maximum 1
+Pollution,Log(X+1)-Transformation
+Pollution,Rescale to maximum 1
+Fish,Identity
+Birds,Identity
+Mammals,Identity

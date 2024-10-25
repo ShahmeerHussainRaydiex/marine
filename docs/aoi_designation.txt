@@ -1,0 +1,34 @@
+Here you will find text descriptions of the possible options to use for the possible locations of technology. 
+This file will primarily describe the Belgian options, as that is where the majority of the possible combinations arise.
+As more data for the other countries arrives, update accordingly.
+A more comprehensive document will be created that has maps of the zones assosciated with each option
+
+
+'whole area'
+This is the entire area with no restrictions.
+
+'full PE zone'
+This only looks at the Princess Elizabeth zone. All of the zones within it are considered.
+
+'PE zone 1'
+Only zone 1 from the Princess Elizabeth Zone
+
+'PE zone 2'
+Only zone 2 from the Princess Elizabeth Zone
+
+'PE zone 3'
+Only zone 3 from the Princess Elizabeth Zone
+
+'renewable energy zones'
+Either of the zones designated to renewable energy
+Note that this pretends the current wind farms do not exist
+
+'msp'
+This looks at all zones that are not blocked by the MSP.
+areas for military, nature reserves, shipping routes, sand extraction zones, and legacy wind farms are not available
+
+'exclude shipping'
+This just excludes the shipping routes. Any area outside of that is fair game
+
+
+
